@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>没皮桃子很邪恶</title>
+    <style>
+        body {
+            background-color: #DB817B; 
+            color: white; 
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+        p {
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>我是不会吃没有皮的桃子的</p>
+    </div>
+</body>
+</html>
